@@ -1,0 +1,48 @@
+h1 {
+    font-family: Georgia, serif;
+}
+
+h3 {
+    font-family: Georgia, serif;
+}
+
+h4 {
+    font-family: Georgia, serif;
+}
+
+h5 {
+    font-family: "Times New Roman", Times, serif;
+}
+
+p {
+    font-family: Tahoma, Geneva, sans-serif;
+}
+
+#martiannews {
+    color: #FFDADA;
+    margin-bottom: 50px;
+    margin-left: 20px;
+}
+
+#martianimage {
+    color: #FFDADA;
+    margin-bottom: 50px;
+}
+
+#martianweather {
+    color: #FFDADA;
+    margin-bottom: 50px;
+}
+
+#martianfacts {
+    color: #FFDADA;
+    margin-bottom: 50px;
+    margin-left: 20px;
+    text-align: center;
+}
+
+#martianhemispheres {
+    color: #FFDADA;
+    margin-bottom: 50px;
+    margin-left: 20px;
+}
